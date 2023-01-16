@@ -10,3 +10,6 @@ We aim to build an image vector search engine, consisting of a database of real-
 
 # Documentation
 - [Dataset Information and Set-up](DATASET.md)
+
+# Update (16 Jan 2023)
+This is a course project for the module CS4243 Computer Vision and Pattern Recognition at the National University of Singapore, instructed by Prof [Xavier Bresson](https://graphdeeplearning.github.io/authors/xavier-bresson/). We received the top scores among the cohort, but the repo is no longer under maintanance. [Here](https://uvents.nus.edu.sg/event/21st-steps/module/MIP-FYP-UR/project/4) is the project page. 
