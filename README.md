@@ -8,8 +8,8 @@ We do so by constructing a model that represents doodles and real images in the 
 
 We aim to build an image vector search engine, consisting of a database of real-life images, that takes in a doodle sketch and returns the top real-life images most relevant or similar. We study the effect of model architecture (MLP, CNN, ConvNeXt) and learning paradigm (supervised, contrastive learning) on deep learning training for our problem.
 
-# Documentation
+## Documentation
 - [Dataset Information and Set-up](DATASET.md)
 
-# Update (16 Jan 2023)
+## Update (16 Jan 2023)
 This is a course project for the module CS4243 Computer Vision and Pattern Recognition at the National University of Singapore, instructed by Prof [Xavier Bresson](https://graphdeeplearning.github.io/authors/xavier-bresson/). We received the top scores among the cohort, but the repo is no longer under maintanance. [Here](https://uvents.nus.edu.sg/event/21st-steps/module/MIP-FYP-UR/project/4) is the project page. 
